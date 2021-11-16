@@ -1,0 +1,12 @@
+.texto{
+    margin-top: 5%;
+}
+
+#texto1{
+    line-height: 25px;
+    max-width: 80%;
+}
+
+#texto2{
+    line-height: 30px;
+}

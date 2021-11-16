@@ -18,7 +18,7 @@ header{
     display: flex;
     background-color: black;
     height: 60px;
-    width: 100%;
+    width: 100vw;
     align-items: center;
     justify-content: center;
     user-select: none;
@@ -29,7 +29,7 @@ header{
     gap: 190px;
 }
 
-.links a{
+a{
     text-decoration: none;
     color: white;
     margin-right: 20px;
@@ -53,6 +53,10 @@ main{
     user-select: none;
     margin-top: 5%;
     margin-left: 15%;
+}
+
+.texto{
+    margin-left: 10%;
 }
 
 h1{
